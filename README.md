@@ -4,6 +4,5 @@ Cornell CS (’26) with a Business minor. I build design-forward software across
 
 I'm always looking for novel, innovative projects to work on that inspire me (and are fun!)
 
-> Currently working on Lumecon.ai, an economic impact AI startup
 
 <p><a href="mailto:hyunkale@gmail.com" aria-label="Email"><img src="icon_email.png" width="36" alt="Email" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kaylynlee/" aria-label="LinkedIn"><img src="icon_linkedin.png" width="36" alt="LinkedIn" /></a></p>
