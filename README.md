@@ -1,8 +1,9 @@
-### Hi, I'm Kaylyn <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="24" alt="sparkles" />
+### Hi, I'm Kaylyn.
 
-Cornell CS (’26) with a Business minor. I build production-forward software across full-stack and ML/CV, with a focus on shipping reliable features and refining the details that improve usability.
+Cornell CS graduate and full-stack/platform engineer building production-ready web applications, backend APIs, and AI-assisted workflows.
 
-I'm always looking for novel, innovative projects to work on that inspire me (and are fun!)
+Most of my recent work is across React, TypeScript, Node.js/Fastify, PostgreSQL, Docker, AWS, CI/CD, and test automation. I like building systems end-to-end: from user-facing flows and API contracts to persistence, deployment, and reliability.
 
+Currently working on full-stack platform engineering at Lumecon.ai and production web development for RReveal Design Studio.
 
-<p><a href="mailto:hyunkale@gmail.com" aria-label="Email"><img src="icon_email.png" width="36" alt="Email" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kaylynlee/" aria-label="LinkedIn"><img src="icon_linkedin.png" width="36" alt="LinkedIn" /></a></p>
+<p><a href="mailto:hyunkale@gmail.com" aria-label="Email"><img src="icon_email.png" width="36" alt="Email" /></a>  <a href="https://www.linkedin.com/in/kaylynlee/" aria-label="LinkedIn"><img src="icon_linkedin.png" width="36" alt="LinkedIn" /></a></p>
