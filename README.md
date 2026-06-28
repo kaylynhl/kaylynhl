@@ -1,19 +1,11 @@
-### Hi, I'm Kaylyn.
+Hi, I'm Kaylyn. Cornell CS '26, based in Queens.
 
-I'm a Cornell CS graduate building full-stack products, backend APIs, and data/AI-assisted workflows.
+Full-stack and backend. React, TypeScript, Node.js, PostgreSQL, AWS, Docker. Most of my work is in private repos.
 
-Recently, I’ve been working across React, TypeScript, Node.js/Fastify, PostgreSQL, Docker, AWS, CI/CD, and automated testing. I like owning the full path from UI and API design to persistence, deployment, and reliability.
+**Work**
+- **Lumecon / TEIM Platform** - built the whole platform solo: auth, APIs, PostgreSQL, Docker, CI/CD, AI integrations
+- **RReveal Design Studio** - Next.js/TypeScript production site, 3D gallery, accessibility, security hardening, 100/100 Lighthouse
+- **Cornell Bee CV Pipeline** - image ingestion pipeline for 20k+ annotated images, YOLO OBB training support
+- **VibeCheck** - aesthetic classification with Groq Vision, CLIP-LoRA, FastAPI, React Native
 
-Some of my strongest work is in private client, research, or team-owned repos, including platform engineering for Lumecon.ai, production web development for RReveal Design Studio, and ML/CV pipeline work at Cornell.
-
-## Selected work
-
-- Lumecon.ai / TEIM Platform — full-stack economic analytics platform with authenticated intake workflows, source review, results, exports, backend APIs, PostgreSQL persistence, Dockerized deployment, CI/CD, and integration boundaries with external AI/model systems.
-
-- RReveal Design Studio — private production Next.js/TypeScript site with interactive project pages, responsive UI, accessibility support, SEO infrastructure, security headers, rate limiting, and deployment hardening.
-
-- Cornell Bee CV Pipeline — private research pipeline for 20,000+ annotated bee images, including deterministic dataset preparation, deduplication, missing-label handling, and YOLO OBB training support.
-
-- VibeCheck — AI aesthetic classification and recommendation pipeline using Python, FastAPI, React Native, Groq Vision, CLIP-LoRA, and pytest.
-
-<p><a href="mailto:hyunkale@gmail.com" aria-label="Email"><img src="icon_email.png" width="36" alt="Email" /></a>  <a href="https://www.linkedin.com/in/kaylynlee/" aria-label="LinkedIn"><img src="icon_linkedin.png" width="36" alt="LinkedIn" /></a></p>
+[Email](mailto:hyunkale@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kaylynlee/)
