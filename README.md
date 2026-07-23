@@ -1,11 +1,13 @@
-Hi, I'm Kaylyn. Cornell CS '26, based in Queens.
+hi, i'm kaylyn. cornell cs '26, based in queens.
 
-Full-stack and backend. React, TypeScript, Node.js, PostgreSQL, AWS, Docker. Most of my work is in private repos.
+full-stack and backend - react, typescript, node.js, postgresql, aws, docker. most of what i build lives in private repos.
 
-**Work**
-- **Lumecon / TEIM Platform** - built the whole platform solo: auth, APIs, PostgreSQL, Docker, CI/CD, AI integrations
-- **RReveal Design Studio** - Next.js/TypeScript production site, 3D gallery, accessibility, security hardening, 100/100 Lighthouse
-- **Cornell Bee CV Pipeline** - image ingestion pipeline for 20k+ annotated images, YOLO OBB training support
-- **VibeCheck** - aesthetic classification with Groq Vision, CLIP-LoRA, FastAPI, React Native
+**work**
+- lumecon / teim platform — built the whole thing solo: auth, apis, postgresql, docker, ci/cd, ai integrations
+- rreveal design studio — next.js/typescript production site, 3d gallery, accessibility and security hardening, 100/100 lighthouse
+- cornell bee cv pipeline — image ingestion for 20k+ annotated images, yolo obb training support
+- vibecheck — aesthetic classification with groq vision, clip-lora, fastapi, react native
 
-[Email](mailto:hyunkale@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kaylynlee/)
+in my free time i enjoy reading, gaming, and spending time with my dog. also long walks on the beach.
+
+[email](mailto:hyunkale@gmail.com) · [linkedin](https://www.linkedin.com/in/kaylynlee/)
